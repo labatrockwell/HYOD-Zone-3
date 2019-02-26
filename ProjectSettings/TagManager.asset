@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
-  - 
+  - StereoRender_Ignore
+  - Wall_South
+  - Mirror
   - 
   - 
   - 
