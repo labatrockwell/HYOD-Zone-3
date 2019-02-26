@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5B8B1542-E76E-5ABD-00F0-B8BC06872227}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/RayTracingShader.compute">
+    <Files>
+      <File FileName="Assets/Scripts/RayTracingMaster.cs" Line="19" Column="70" />
+      <File FileName="Assets/Shaders/RayTracingShader.compute" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
